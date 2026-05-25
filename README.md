@@ -8,3 +8,10 @@ the same: light reveals structure.
 ©Liliane ML Burkhard, 2026
 
 ## Go to website: [handtracker](https://liliane-sys.github.io/handtracker/)
+---
+
+## Preview
+
+![handtracker Screenshot](screenshot_h.png)
+
+---
